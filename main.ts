@@ -4,7 +4,7 @@
 // 配置
 const DEEPINFRA_API_URL = "https://api.deepinfra.com/v1/openai/";
 const DEEPINFRA_API_KEY = "321123"; // DeepInfra API Key
-const API_KEYS = ["your-api-key-1", "your-api-key-2"]; // 允许访问的API Keys列表
+const API_KEYS = ["321123"]; // 允许访问的API Keys列表
 
 // 验证API Key
 function validateApiKey(request: Request): boolean {
